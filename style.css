@@ -1,0 +1,47 @@
+body {
+    background: rgb(0,0,0);
+background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(62,62,62,1) 100%);
+}
+
+.wix {
+    text-align: center;
+    color: white;  
+    width: 350px;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+.wix-title {
+    text-align: center;
+    color: white;  
+    width: 350px;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+.wix2 {
+    height: 465px;
+    width: 865px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.main-text {
+    font-size: 40px;
+    color: rgb(237, 237, 237);
+    text-indent: 25px;
+}
+
+.pages_list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none ;
+}
+
+.pages-link {
+    font-family: 'Kaushan Script';
+    text-decoration: none ;
+    text-shadow: 3px 1px 3px black;
+    font-size: 36px;
+    color: whitesmoke;
+  }
